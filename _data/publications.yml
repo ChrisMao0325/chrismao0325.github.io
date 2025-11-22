@@ -6,7 +6,6 @@ main:
     pdf: https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1
     code: https://github.com/donghongyu2020/SpaTranslator
     image: ./assets/img/Gemini_Generated_Image_21ne6u21ne6u21ne.png
-    notes: <strong>Co-first author</strong>
 
   - title: "STARNet Enables Spatially Resolved Inference of Gene Regulatory Networks from Spatial Multi-omics Data"
     authors: Lei Hu, Shichen Zhang, Xuting Zhang, Yihai Luo, Haoteng Gu, Peng Liu, <strong>Sheng Mao</strong>, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng
