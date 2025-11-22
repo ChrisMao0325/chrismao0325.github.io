@@ -26,10 +26,11 @@ Driven by a fascination for how computational models can reveal and even enginee
 
 
 ## News
-- **[Nov. 2024]** *SpaTranslator*, a spatial multi-omics generative model, is released on **bioRxiv**.
-- **[Sep. 2025]** Will join the **Arc Institute** as a Research Fellow.
+- **[Nov. 2025]** *SpaTranslator*, a spatial multi-omics generative model, is released on **bioRxiv**.
+- **[Sep. 2025]** Join the **Arc Institute** as an Undergraduate Research Fellow.
 - **[Aug. 2025]** *STARNet*, a framework for spatial gene regulatory networks, is posted to **bioRxiv**.
 - **[Dec. 2024]** Awarded the Westlake University **Dean’s Award** for research excellence.
+- **[Aug. 2024]** Began a semester research exchange at **Cornell University**.
 
 {% include_relative _includes/publications.md %}
 
