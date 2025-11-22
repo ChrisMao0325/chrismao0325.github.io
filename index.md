@@ -2,22 +2,33 @@
 layout: homepage
 ---
 
+
 ## About Me
 
-I am a Ph.D. student at ...
+Driven by a fascination for how computational models can reveal and even engineer the rules of gene regulation in different cell types. I am currently an undergraduate research fellow at the Arc Institute, working at the interface of deep learning and regulatory genomics, advised by Dr. Jingtian Zhou. Previously, I have been fortunate to conduct research with Prof. Jian Yang and Prof. Jianyang Zeng @ Westlake University, and Prof. Ayshwarya Subramanian @ Cornell University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Regulatory Genomics:** How DNA sequence and regulatory syntax encode cell-type–specific function.
+
+- **Single-Cell and Spatial Multi-Omics:**  
+  Modeling gene regulation in its biological and spatial context.
+
+- **Machine Learning for Biology:**  
+  Deep learning and generative modeling for sequence, chromatin, and cellular states.
+
+- **Human Genetics & Disease:**  
+  Linking regulatory variation to complex traits and disease mechanisms.
+
+- **Synthetic Biology:**  
+  Using predictive models to design regulatory elements and engineer cellular behavior.
+
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** *SpaTranslator*, a spatial multi-omics generative model, is released on **bioRxiv**.
+- **[Sep. 2025]** Will join the **Arc Institute** as a Research Fellow.
+- **[Aug. 2025]** *STARNet*, a framework for spatial gene regulatory networks, is posted to **bioRxiv**.
+- **[Dec. 2024]** Awarded the Westlake University **Dean’s Award** for research excellence.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
