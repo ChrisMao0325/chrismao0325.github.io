@@ -9,7 +9,7 @@ Driven by a fascination for how computational models can reveal and even enginee
 
 ## Research Interests
 
-- **Regulatory Genomics:** 
+- **Regulatory Genomics:**   
   How DNA sequence and regulatory syntax encode cell-type–specific function.
 
 - **Single-Cell and Spatial Multi-Omics:**  
